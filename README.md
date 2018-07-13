@@ -1,8 +1,8 @@
 # gcloudconfigs
 Configurations for GCloud
 
->cd GitConfigs
->git pull
+$cd GitConfigs
+$git pull
 
 >http://rogerdudler.github.io/git-guide/
 >gcloud datastore create-indexes GitConfigs/HurryCan/MetaDB/index.yaml
