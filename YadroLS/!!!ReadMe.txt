@@ -1,2 +1,4 @@
-Change file 
-gcloud datastore create-indexes HurryCan/index.yaml
+
+gcloud datastore create-indexes GitConfigs/YadroLS/index.yaml
+or
+gcloud datastore cleanup-indexes GitConfigs/YadroLS/index.yaml
