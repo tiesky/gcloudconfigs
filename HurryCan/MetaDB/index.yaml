@@ -1,0 +1,47 @@
+indexes:
+
+- kind: OrdersStat
+  ancestor: no
+  properties:  
+  - name: ConsumerID
+    direction: asc
+  - name: Day
+    direction: asc
+
+- kind: OrdersStat
+  ancestor: no
+  properties:  
+  - name: SupplierID
+    direction: asc
+  - name: Day
+    direction: asc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

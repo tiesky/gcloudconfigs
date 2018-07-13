@@ -1,0 +1,65 @@
+indexes:
+
+- kind: Users
+  ancestor: yes
+  properties:  
+  - name: email
+    direction: asc
+
+- kind: Users
+  ancestor: yes
+  properties:  
+  - name: Auth
+    direction: asc
+
+- kind: YadroServers
+  ancestor: yes
+  properties:  
+  - name: LicenseKey
+    direction: asc
+
+- kind: YadroSoftware
+  ancestor: yes
+  properties:  
+  - name: YadroSoftwareName
+    direction: asc
+
+#- kind: Task
+#  ancestor: no
+#  properties:  
+#  - name: udt
+#    direction: desc
+#  - name: price
+#    direction: desc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
