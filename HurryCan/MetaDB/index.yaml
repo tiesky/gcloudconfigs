@@ -3,19 +3,18 @@ indexes:
 - kind: OrdersStat
   ancestor: no
   properties:  
-  - name: Day
-    direction: asc  
   - name: ConsumerID
+    direction: asc
+  - name: Day
     direction: asc
 
 - kind: OrdersStat
   ancestor: no
   properties:  
-  - name: Day
-    direction: asc  
   - name: SupplierID
     direction: asc
-
+  - name: Day
+    direction: asc
 
 
 
